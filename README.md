@@ -1,4 +1,4 @@
-*[中文 README](README_zh.md)**[日本語 README](README_ja.md)*
+*[中文 README](README_zh.md)**[日語 README](README_ja.md)*
 
 A comprehensive Model Context Protocol (MCP) server for Microsoft Excel operations. Enables AI assistants to perform data analysis, cell editing, formatting, border styling, VBA execution, and complete worksheet management through a structured workflow.
 
